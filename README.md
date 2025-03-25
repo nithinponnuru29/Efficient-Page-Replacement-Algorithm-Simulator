@@ -60,9 +60,13 @@ Enter the number of frames: 3
 Selected Algorithms: FIFO, LRU
 
 **FIFO Algorithm:**
+
 1 : 1
+
 2 : 1 2
+
 3 : 1 2 3
+
 2 : 1 2 3 (hit)
 
 Page Faults: 8, Page Hits: 4
