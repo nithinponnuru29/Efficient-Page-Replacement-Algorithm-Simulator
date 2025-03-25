@@ -1,20 +1,20 @@
 
 # Efficient-Page-Replacement-Algorithm-Simulator
-Efficient Page Replacement Algorithm Simulator
+#**Efficient Page Replacement Algorithm Simulator**
 
-##Team Members:
+**Team Members:**
 
-1.**Nithin Ponnuru**
+1.Nithin Ponnuru
 
 2.Tanishq Naga Vinayak
 
 3.Sahik Sahuil
 
-Project Description:
+**Project Description:**
 
 Efficient Page Replacement Algorithm Simulator is a tool designed to analyze and compare various page replacement algorithms used in operating systems. This simulator helps understand how different algorithms handle memory management and optimize page faults.
 
-Features:
+**Features:**
 
 1.Simulates multiple page replacement algorithms: FIFO, LRU, LFU, MFU, and Optimal
 
@@ -26,7 +26,7 @@ Features:
 
 5.Generates a comparative visualization of algorithm performance using Matplotlib
 
-Technologies:
+**Technologies:**
 
 Programming Language: Python
 
@@ -41,7 +41,7 @@ Clone the repository:
 
 2.pip install matplotlib
 
-Usage:
+**Usage:**
 
 1.Enter the length of the page reference string.
 
@@ -53,13 +53,13 @@ Usage:
 
 5.View the output with page hits, faults, and a comparison graph.
 
-Example Output:
+**Example Output:**
 
 Generated Page References: 1,2,3,2,1,4,5,2,1,3,4,5
 Enter the number of frames: 3
 Selected Algorithms: FIFO, LRU
 
-FIFO Algorithm:
+**FIFO Algorithm:**
 1 : 1
 2 : 1 2
 3 : 1 2 3
@@ -68,7 +68,7 @@ FIFO Algorithm:
 Page Faults: 8, Page Hits: 4
 Miss Ratio: 66.67%, Hit Ratio: 33.33%
 
-Future Enhancements:
+**Future Enhancements:**
 
 1.Implement more advanced algorithms like NRU and Working Set
 
