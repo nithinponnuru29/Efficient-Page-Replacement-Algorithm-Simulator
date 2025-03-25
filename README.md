@@ -28,15 +28,13 @@ Efficient Page Replacement Algorithm Simulator is a tool designed to analyze and
 
 **Technologies:**
 
-Programming Language: Python
+**Programming Language:** Python
 
-Libraries and Tools: Matplotlib, Collections (Deque & Counter), Random
+**Libraries and Tools:** Matplotlib, Collections (Deque & Counter), Random
 
-Other Tools: GitHub for version control
+**Other Tools:** GitHub for version control
 
-Installation:
-
-Clone the repository:
+**Installation:**
 1.Install IDLE
 
 2.pip install matplotlib
