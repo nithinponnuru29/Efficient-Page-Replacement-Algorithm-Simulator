@@ -1,18 +1,19 @@
 
 # Efficient-Page-Replacement-Algorithm-Simulator
-##**Efficient Page Replacement Algorithm Simulator**
+**Efficient Page Replacement Algorithm Simulator**
 
 **Team Members:**
 
 1.Nithin Ponnuru
 
-2.Tanishq Naga Vinayak
+2.Karri Tanishq Naga Vinayak
 
-3.Sahik Sahuil
+3.Shaik Suhail
 
 **Project Description:**
 
 Efficient Page Replacement Algorithm Simulator is a tool designed to analyze and compare various page replacement algorithms used in operating systems. This simulator helps understand how different algorithms handle memory management and optimize page faults.
+
 
 **Features:**
 
@@ -25,6 +26,7 @@ Efficient Page Replacement Algorithm Simulator is a tool designed to analyze and
 4.Calculates and displays page faults, page hits, miss ratio, and hit ratio
 
 5.Generates a comparative visualization of algorithm performance using Matplotlib
+
 
 **Technologies:**
 
@@ -39,6 +41,7 @@ Efficient Page Replacement Algorithm Simulator is a tool designed to analyze and
 
 2.pip install matplotlib
 
+
 **Usage:**
 
 1.Enter the length of the page reference string.
@@ -50,6 +53,7 @@ Efficient Page Replacement Algorithm Simulator is a tool designed to analyze and
 4.Select the algorithms to simulate.
 
 5.View the output with page hits, faults, and a comparison graph.
+
 
 **Example Output:**
 
@@ -70,7 +74,9 @@ Selected Algorithms: FIFO, LRU
 2 : 1 2 3 (hit)
 
 Page Faults: 8, Page Hits: 4
+
 Miss Ratio: 66.67%, Hit Ratio: 33.33%
+
 
 **Future Enhancements:**
 
