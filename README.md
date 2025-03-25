@@ -1,6 +1,6 @@
 
 # Efficient-Page-Replacement-Algorithm-Simulator
-#**Efficient Page Replacement Algorithm Simulator**
+##**Efficient Page Replacement Algorithm Simulator**
 
 **Team Members:**
 
